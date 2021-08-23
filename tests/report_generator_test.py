@@ -41,3 +41,5 @@ def aggregate_stub(params: AggregateParams) -> str:
 
 if __name__ == "__main__":
     unittest.main()
+
+# just a test
